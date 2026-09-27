@@ -1,0 +1,4 @@
+{
+  "byte_error_code": "E_BAD_BYTE",
+  "frames": [[1, 2, 3], [255, 0], [], [7, 7, 7]]
+}
